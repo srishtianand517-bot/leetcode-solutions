@@ -47,7 +47,7 @@ I am solving LeetCode problems daily to improve my Data Structures and Algorithm
 
 LinkedIn: (www.linkedin.com/in/srishti-anand-)  
 LeetCode: (https://leetcode.com/u/srishti_anand05/)  
-GitHub: (https://leetcode.com/u/srishti_anand05/)
+GitHub: (https://github.com/srishtianand517-bot)
 
 ---
 
